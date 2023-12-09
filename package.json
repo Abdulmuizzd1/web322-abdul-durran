@@ -1,5 +1,5 @@
 {
-3    "name": "WEB322-abdul-durran",
+3    "name": "web322-abdul-durran",
 4    "version": "1.0.0",
 5    "description": "",
 6    "scripts": {
@@ -9,13 +9,13 @@
 10    },
 11    "repository": {
 12        "type": "git",
-13        "url": "git+https://github.com/Abdulmuizzd1/WEB322-abdul-durran.git"
+13        "url": "git+https://github.com/Abdulmuizzd1/web322-abdul-durran.git"
 14    },
 15    "author": "",
 16    "license": "ISC",
 17    "bugs": {
-18        "url": "https://github.com/Abdulmuizzd1/WEB322-abdul-durran/issues"
+18        "url": "https://github.com/Abdulmuizzd1/web322-abdul-durran/issues"
 19    },
-20    "homepage": "https://github.com/Abdulmuizzd1/WEB322-abdul-durran#readme"
+20    "homepage": "https://github.com/Abdulmuizzd1/web322-abdul-durran#readme"
 21}
 22 
